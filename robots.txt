@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+SITEMAP: sportywind.com/sitemap.xml
